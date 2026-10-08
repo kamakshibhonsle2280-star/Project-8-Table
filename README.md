@@ -1,0 +1,2 @@
+# Project-8-Table
+A clean and structured HTML table showcasing different electronic items, their units, per-unit prices, individual amounts, and the total amount. Designed with a simple and attractive layout for easy data presentation.
